@@ -25,3 +25,4 @@ You must answered two questions in **discussions** section. Please keep an eye o
 - https://github.com/caarlosdamian
 - https://github.com/ktra99
 - https://github.com/Fastxyz
+- https://github.com/Tales-1
