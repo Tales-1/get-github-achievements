@@ -16,7 +16,7 @@
 Leave us a star ⭐🤩
 
 ## Discussions
-You must answered two questions in **discussions** section. Please keep an eye on your mentions
+You must answer two questions in **discussions** section. Please keep an eye on your mentions
 
 ## Profiles with github achievements
 
