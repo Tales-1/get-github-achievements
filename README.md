@@ -11,6 +11,7 @@
 3. Add your Github profile link to the list below in this readme file
 4. Commit your changes
 5. Push the branch and open a PR
+6. Merge the PR within 5 minutes of opened 
 
 Leave us a star ⭐🤩
 
