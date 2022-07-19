@@ -16,7 +16,7 @@
 Leave us a star ⭐🤩
 
 ## Discussions
-You must answered two questions in **discussions** section. Please keep an eye on your mentions
+You must answer two questions in **discussions** section. Please keep an eye on your mentions
 
 ## Profiles with github achievements
 
@@ -25,3 +25,4 @@ You must answered two questions in **discussions** section. Please keep an eye o
 - https://github.com/caarlosdamian
 - https://github.com/ktra99
 - https://github.com/Fastxyz
+- https://github.com/Tales-1
